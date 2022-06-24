@@ -1,0 +1,27 @@
+{
+  "name": "projeto-1.3-to-do-list",
+  "version": "1.0.0",
+  "description": "Projeto To Do List modulo 3  Blue Ed Tech",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemon index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DevzVictor/projeto-1.3-To-do-list.git"
+  },
+  "author": "Victor Rodrigues",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DevzVictor/projeto-1.3-To-do-list/issues"
+  },
+  "homepage": "https://github.com/DevzVictor/projeto-1.3-To-do-list#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  }
+}
