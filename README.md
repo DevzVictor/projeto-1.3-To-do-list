@@ -11,11 +11,11 @@ Consulte **Implantação** para saber como implantar o projeto.
 ### 📋 Pré-requisitos
 
 IDE Visual Studio Code
-Node.js
-Express
-Nodemon
-Cors
-Thunder Cliente - para testar as rotas
+* Node.js
+* Express
+* Nodemon
+* Cors
+* Thunder Cliente - para testar as rotas
 
 ### 🔧 Instalação
 
